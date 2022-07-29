@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "php.validate.executablePath": "D:/xampp/php/php.exe",
+    "php.executablePath": "D:/xampp/php/php.exe",
+    "files.autoSave": "onWindowChange",
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorCustomizations": {
+    
+    }
+}
